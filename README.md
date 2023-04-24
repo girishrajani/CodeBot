@@ -1,4 +1,4 @@
-# c0deb0t <img src="./icon.ico" height="25px">
+# c0deb0t <img src="./README/icon1.ico" height="25px">
 
 #### A Chat-Bot to help with programming guidance and syntax building 
 
